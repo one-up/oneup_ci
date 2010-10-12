@@ -1,0 +1,1 @@
+gem "ci_reporter", :git => 'git://github.com/one-up/ci_reporter'
